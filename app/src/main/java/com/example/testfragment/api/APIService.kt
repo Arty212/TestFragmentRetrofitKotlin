@@ -1,4 +1,4 @@
-package com.example.testfragment.API
+package com.example.testfragment.api
 
 import com.example.testfragment.model.Country
 import retrofit2.Call

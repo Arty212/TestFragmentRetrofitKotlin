@@ -11,4 +11,8 @@ class Country {
 
     @SerializedName("ISO2")
     var iso2 = ""
+
+    override fun toString(): String {
+        return country
+    }
 }
